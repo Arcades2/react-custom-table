@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Nom",
+    "key": "name"
+  },
+  {
+    "name": "Description",
+    "key": "desc"
+  },
+  {
+    "name": "Client",
+    "key": "client"
+  },
+  {
+    "name": "Prix TTC",
+    "key": "priceTTC"
+  },
+  {
+    "name": "Prix HT",
+    "key": "priceHT",
+    "visible": false
+  },
+  {
+    "name": "TVA",
+    "key": "tva",
+    "visible": false
+  }
+]

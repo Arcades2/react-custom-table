@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "name": "Chantier de la gare",
+    "desc": "Description courte",
+    "client": {
+      "name": "John Doe"
+    },
+    "priceTTC": 150,
+    "priceHT": 100,
+    "tva": 20
+  }
+]
